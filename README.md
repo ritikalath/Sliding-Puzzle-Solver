@@ -12,8 +12,9 @@ This header file contains the function which checks whether the given input inst
 
 ### solver.h <br/>
 This header file contains two functions, **A_star** and **BFS** which takes the initial state of puzzle as input and solves the given instance to get the desired output state.
+<hr />
 
 ### sliding_puzzle.cpp <br />
 This is the main function which takes the following inputs:<br />
-   Markup : * The size of grid(N)
-            * The shape of grid (initial state of puzzle)
+    * The size of grid(N
+    * The shape of grid (initial state of puzzle)
