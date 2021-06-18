@@ -33,6 +33,7 @@ The shape of 3*3 grid: <br />
 3 0 5 <br />
 4 6 2 <br />
 <br/>
+
 #### Output: <br />
 [1  0  7]<br />
 [3  8  5]<br />
