@@ -121,3 +121,4 @@ The shape of 3*3 grid: <br />
 [4 5 6]<br />
 [7 8 0]<br />
 
+Summary: Both A-Star and BFS took 22 steps to solve the given puzzle but A-Star took around 0.084 seconds where as BFS took around 5.127 seconds to solve this grid.
