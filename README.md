@@ -17,4 +17,108 @@ This header file contains two functions, **A_star** and **BFS** which takes the 
 ### sliding_puzzle.cpp <br />
 This is the main function which takes the following inputs:<br />
 * The size of grid(N) <br />
-* The shape of grid (initial state of puzzle)
+* The shape of grid (initial state of puzzle) <br />
+and solves the grid setting using A-Star or BFS. <br />
+<hr />
+
+#### Example of input: <br />
+<hr />
+The size of grid(N): 3 <br />
+The shape of 3*3 grid: <br />
+1 8 7 <br />
+3 0 5 <br />
+4 6 2 <br />
+<hr/>
+
+##### Output: <br />
+[1 0 7]
+[3 8 5]
+[4 6 2]
+
+[1 7 0]
+[3 8 5]
+[4 6 2]
+
+[1 7 5]
+[3 8 0]
+[4 6 2]
+
+[1 7 5]
+[3 8 2]
+[4 6 0]
+
+[1 7 5]
+[3 8 2]
+[4 0 6]
+
+[1 7 5]
+[3 0 2]
+[4 8 6]
+
+[1 0 5]
+[3 7 2]
+[4 8 6]
+
+[1 5 0]
+[3 7 2]
+[4 8 6]
+
+[1 5 2]
+[3 7 0]
+[4 8 6]
+
+[1 5 2]
+[3 7 6]
+[4 8 0]
+
+[1 5 2]
+[3 7 6]
+[4 0 8]
+
+[1 5 2]
+[3 0 6]
+[4 7 8]
+
+[1 5 2]
+[0 3 6]
+[4 7 8]
+
+[1 5 2]
+[4 3 6]
+[0 7 8]
+
+[1 5 2]
+[4 3 6]
+[7 0 8]
+
+[1 5 2]
+[4 3 6]
+[7 8 0]
+
+[1 5 2]
+[4 3 0]
+[7 8 6]
+
+[1 5 2]
+[4 0 3]
+[7 8 6]
+
+[1 0 2]
+[4 5 3]
+[7 8 6]
+
+[1 2 0]
+[4 5 3]
+[7 8 6]
+
+[1 2 3]
+[4 5 0]
+[7 8 6]
+
+[1 2 3]
+[4 5 6]
+[7 8 0]
+
+
+
+
