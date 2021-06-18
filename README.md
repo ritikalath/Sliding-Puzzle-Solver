@@ -26,23 +26,22 @@ This is the recursive function which taken a N*N grid as input and solves the pu
 <hr/>
 
 #### Example of input: <br />
-<hr />
+<br/>
 The size of grid(N): 3 <br />
 The shape of 3*3 grid: <br />
 1 8 7 <br />
 3 0 5 <br />
 4 6 2 <br />
-<hr/>
-
+<br/>
 ##### Output: <br />
 [1  0  7]<br />
 [3  8  5]<br />
 [4  6  2]<br />
-
+<br/>
 [1  7  0]<br />
 [3  8  5]<br />
 [4  6  2]<br />
-
+<br/>
 [1  7  5]<br />
 [3  8  0]<br />
 [4  6  2]<br />
