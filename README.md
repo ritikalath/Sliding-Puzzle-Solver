@@ -21,6 +21,10 @@ This is the main function which takes the following inputs:<br />
 and solves the grid setting using A-Star or BFS. <br />
 <hr />
 
+### IDA_star.cpp <br/>
+This is the recursive function which taken a N*N grid as input and solves the puzzle using **IDA-Star** algorithm.
+<hr/>
+
 #### Example of input: <br />
 <hr />
 The size of grid(N): 3 <br />
