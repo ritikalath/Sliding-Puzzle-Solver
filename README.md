@@ -16,5 +16,5 @@ This header file contains two functions, **A_star** and **BFS** which takes the 
 
 ### sliding_puzzle.cpp <br />
 This is the main function which takes the following inputs:<br />
-    Markup :* The size of grid(N) <br />
+    Markup : * The size of grid(N) <br />
     * The shape of grid (initial state of puzzle)
