@@ -2,7 +2,7 @@
 Implementation of A-Star, IDA-Star and BFS Algorithms to solve N*N sliding puzzle.
 <hr />
 
-### game_state.h:<br />
+### game_state.h<br />
 This header file describes any game state in the search space.It contains structure to store the current state, functions to calculate heuristic (both Manhattan and misplaced tiles) and function to print the steps involved in solving the given instance of sliding puzzle.
 <hr />
 
@@ -121,4 +121,4 @@ The shape of 3*3 grid: <br />
 [4 5 6]<br />
 [7 8 0]<br />
 
-Summary: Both A-Star and BFS took 22 steps to solve the given puzzle but A-Star took around 0.084 seconds where as BFS took around 5.127 seconds to solve this grid.
+Summary: IDA-Star,A-Star and BFS,all took 22 steps to solve the given puzzle but IDA-Star took around 0.101 seconds,A-Star took around 0.084 seconds where as BFS took around 5.127 seconds to solve this grid.
