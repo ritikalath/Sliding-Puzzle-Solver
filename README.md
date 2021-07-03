@@ -1,6 +1,8 @@
 # Sliding-Puzzle-Solver
-Implementation of A-Star, IDA-Star and BFS Algorithms to solve N*N sliding puzzle.
+**Implementation of A-Star, IDA-Star and BFS Algorithms to solve N*N sliding puzzle.**
 <hr />
+
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flifeandtech%2Fbfs-search-for-8-puzzle-problem-8d3ea63f1974&psig=AOvVaw1N9dYogqh-eww0dwGYctgl&ust=1625408299804000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMiL-oGLx_ECFQAAAAAdAAAAABAU)
 
 ### game_state.h<br />
 This header file describes any game state in the search space.It contains structure to store the current state, functions to calculate heuristic (both Manhattan and misplaced tiles) and function to print the steps involved in solving the given instance of sliding puzzle.
