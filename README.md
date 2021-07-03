@@ -6,7 +6,8 @@
   <img width="460" height="460" src="https://miro.medium.com/max/1213/1*YxeZJzfhW4kn5O5wAGbkIg.gif">
 </p>
 <br />
-### game_state.h<br />
+
+### game_state.h <br />
 This header file describes any game state in the search space.It contains structure to store the current state, functions to calculate heuristic (both Manhattan and misplaced tiles) and function to print the steps involved in solving the given instance of sliding puzzle.
 <hr />
 
