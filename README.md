@@ -126,4 +126,4 @@ The shape of 3*3 grid: <br />
 [4 5 6]<br />
 [7 8 0]<br />
 
-Summary: IDA-Star,A-Star and BFS,all took 22 steps to solve the given puzzle but IDA-Star took around 0.092 seconds,A-Star took around 0.084 seconds where as BFS took around 5.127 seconds to solve this grid.
+Summary: IDA-Star,A-Star and BFS,all took 22 steps to solve the given puzzle but IDA-Star took around 0.092 seconds,A-Star took around 0.137 seconds where as BFS took around 5.127 seconds to solve this grid.
