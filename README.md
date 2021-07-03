@@ -1,5 +1,5 @@
 # Sliding-Puzzle-Solver
-**Implementation of A-Star, IDA-Star and BFS Algorithms to solve N*N sliding puzzle.**
+### Implementation of A-Star, IDA-Star and BFS Algorithms to solve N*N sliding puzzle.
 <hr />
 
 ![GitHub Logo](https://miro.medium.com/max/1213/1*YxeZJzfhW4kn5O5wAGbkIg.gif)
